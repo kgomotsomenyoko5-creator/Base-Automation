@@ -7,7 +7,7 @@
         android:allowBackup="true"
         android:label="Base Automation"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BaseAutomation">
+        android:theme="@android:style/Theme.Material.NoActionBar"
 
         <activity
             android:name=".MainActivity"
